@@ -1,0 +1,16 @@
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\bin\Debug\netcoreapp3.1\PractisalTest.Data.deps.json
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\bin\Debug\netcoreapp3.1\PractisalTest.Data.runtimeconfig.json
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\bin\Debug\netcoreapp3.1\PractisalTest.Data.runtimeconfig.dev.json
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\bin\Debug\netcoreapp3.1\PractisalTest.Data.dll
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\bin\Debug\netcoreapp3.1\PractisalTest.Data.pdb
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\bin\Debug\netcoreapp3.1\PractisalTest.Core.dll
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\bin\Debug\netcoreapp3.1\PractisalTest.Core.pdb
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.csproj.AssemblyReference.cache
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.AssemblyInfoInputs.cache
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.AssemblyInfo.cs
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.csproj.CopyComplete
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.dll
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.pdb
+C:\Users\fuadm\source\repos\PractisalTest\PractisalTest.Data\obj\Debug\netcoreapp3.1\PractisalTest.Data.genruntimeconfig.cache
